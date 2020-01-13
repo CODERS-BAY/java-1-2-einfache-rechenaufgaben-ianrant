@@ -11,6 +11,8 @@ Bonus: Gib die Kommazahlen schön formatiert auf der Konsole aus.
 
 Eine Ausgabe sollte folgendermaßen aussehen: 
 
+![Beispiel Ausgabe](simple-calculations.PNG)
+
 
 ----------------------------------------------------------------------------
 
@@ -26,3 +28,5 @@ Perform all calculations with whole numbers and fractional numbers.
 Bonus: Try to limit the decimal places of your calculations with the fractional numbers. 
 
 Your output should look like this:
+
+![example output](simple-calculations.PNG)
