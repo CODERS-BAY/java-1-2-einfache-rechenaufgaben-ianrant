@@ -15,7 +15,7 @@ public class Main {
         System.out.printf("%4d / %4d  =  %4d", number1, number2, (number1 / number2));
         System.out.println();
         System.out.println();
-        System.out.println("Calculations with int values:");
+        System.out.println("Calculations with double values:"); //woops :)
         System.out.println();
         System.out.printf("%%8.3f + %%8.3f = %8.3f", number3, number4, (number3 + number4));
         System.out.println();
